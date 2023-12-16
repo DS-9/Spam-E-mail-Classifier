@@ -6,3 +6,4 @@ Bayes theorem is one of the earliest probabilistic inference algorithms develope
 The Bayes theorem calculates the probability of a certain event happening(in our case, a message being spam) based on the joint probabilistic distributions of certain other events(in our case, the appearance of certain words in a message)
    
    
+  
